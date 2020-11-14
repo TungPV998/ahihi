@@ -4,7 +4,8 @@
 test(ok) 
 {
   int x=3;
-  int y=3;
+  int y=4
+    ;
   assertEqual(x,y);
 }
 
